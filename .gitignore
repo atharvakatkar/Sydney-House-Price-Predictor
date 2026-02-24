@@ -12,9 +12,6 @@ venv/
 # Data — raw data never gets pushed
 data/raw/
 
-# Models — too large for GitHub
-models/*.pkl
-
 # OS
 .DS_Store
 Thumbs.db
