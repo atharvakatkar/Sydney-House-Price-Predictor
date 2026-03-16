@@ -151,6 +151,6 @@ Python, Pandas, NumPy, Scikit-Learn, SHAP, Streamlit, Joblib, Selenium, Matplotl
 ## Author
 
 **Atharva Katkar**  
-[GitHub](https://github.com/atharvakatkar)
+[GitHub](https://github.com/atharvakatkar) | [LinkedIn](https://www.linkedin.com/in/ankatkar)
 
 *Data Science Student — Macquarie University*
